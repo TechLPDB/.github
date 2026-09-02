@@ -27,12 +27,21 @@ Nossa missão é alinhar eficiência tecnológica, segurança da informação e 
 
 ---
 
-### 🛠️ Nossos Focos de Atuação
+### 🚀 Conheça o TechLab LPDB
 
-* 🤖 **Automação & Processos:** Scripts e ferramentas para otimização de rotinas e integração de dados.
-* 📊 **Análise de Dados:** Painéis, métricas e inteligência aplicada ao contexto jurídico.
-* 🛡️ **Segurança & Governança:** Armazenamento seguro de código, controle de acesso granular e boas práticas de desenvolvimento.
-* 🌐 **Sistemas Internos:** Aplicações web e ferramentas exclusivas para a equipe e parceiros.
+Pensando em quem está dando os primeiros passos no mundo da tecnologia ou quer tirar uma ideia de projeto do papel, criamos o **TechLab**! 
+
+O **TechLab** funciona como um **berçário de projetos e guia de boas práticas** do escritório. É o nosso espaço dedicado a descomplicar a tecnologia, ensinar conceitos básicos do dia a dia e ajudar qualquer pessoa da equipe — **mesmo sem conhecimento prévio em programação** — a criar automações, organizar ideias e aplicar inovação na rotina jurídica.
+
+<div align="center">
+
+👉 **[Acesse o Portal do TechLab](https://techlablpdb.vercel.app/)** 👈
+
+</div>
+
+* 💡 **Ideação & Incubação:** Dê o primeiro passo com suporte técnico para estruturar e validar sua ideia.
+* 📖 **Guia Descomplicado:** Aprenda boas práticas, uso correto das ferramentas do escritório e conceitos básicos de tecnologia.
+* 🤝 **Colaboração Aberta:** Um ambiente seguro e amigável para tirar dúvidas, aprender e construir em equipe.
 
 ---
 
