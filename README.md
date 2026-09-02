@@ -35,7 +35,7 @@ O **TechLab** funciona como um **berçário de projetos e guia de boas práticas
 
 <div align="center">
 
-👉 **[Acesse o Portal do TechLab](https://techlablpdb.vercel.app/)** 👈
+👉 <b><a href="https://techlablpdb.vercel.app/" target="_blank" rel="noopener noreferrer">Acesse o Portal do TechLab</a></b> 👈
 
 </div>
 
