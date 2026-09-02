@@ -27,9 +27,7 @@ Nossa missão é alinhar eficiência tecnológica, segurança da informação e 
 
 ---
 
-### 🚀 Conheça o TechLab LPDB
-
-Pensando em quem está dando os primeiros passos no mundo da tecnologia ou quer tirar uma ideia de projeto do papel, criamos o **TechLab**! 
+### 🚀 Quer ajuda com seu projeto? Ou teve alguma ideia?
 
 O **TechLab** funciona como um **berçário de projetos e guia de boas práticas** do escritório. É o nosso espaço dedicado a descomplicar a tecnologia, ensinar conceitos básicos do dia a dia e ajudar qualquer pessoa da equipe, **mesmo sem conhecimento prévio em programação** a criar automações, organizar ideias e aplicar inovação na rotina jurídica.
 
