@@ -37,9 +37,9 @@ O **TechLab** funciona como um **berçário de projetos e guia de boas práticas
 
 </div>
 
-* 💡 **Ideação & Incubação:** Dê o primeiro passo com suporte técnico para estruturar e validar sua ideia.
-* 📖 **Guia Descomplicado:** Aprenda boas práticas, uso correto das ferramentas do escritório e conceitos básicos de tecnologia.
-* 🤝 **Colaboração Aberta:** Um ambiente seguro e amigável para tirar dúvidas, aprender e construir em equipe.
+*  **Ideação & Incubação:** Dê o primeiro passo com suporte técnico para estruturar e validar sua ideia.
+*  **Guia Descomplicado:** Aprenda boas práticas, uso correto das ferramentas do escritório e conceitos básicos de tecnologia.
+*  **Colaboração Aberta:** Um ambiente seguro e amigável para tirar dúvidas, aprender e construir em equipe.
 
 ---
 
