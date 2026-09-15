@@ -30,7 +30,7 @@ Nossa missão é alinhar eficiência tecnológica, segurança da informação e 
 ### 🔐 Diretrizes da Organização
 
 > ⚠️ IMPORTANTE: Todo novo repositório deve seguir o padrão de identificação
-> do Technology Hub. A classificação é feita diretamente na descrição do
+> do Hub. A classificação é feita diretamente na descrição do
 > repositório através dos prefixos padronizados.
 
 1. **Privacidade Primeiro:** Todos os dados sensíveis e credenciais de acesso devem ser mantidos estritamente confidenciais e gerenciados via variáveis de ambiente (`.env`).
@@ -39,7 +39,7 @@ Nossa missão é alinhar eficiência tecnológica, segurança da informação e 
 
 3. **Fluxo de Trabalho:** Alterações em projetos principais devem passar por revisão via *Pull Request* e validação da equipe.
 
-4. **Identificação Obrigatória dos Repositórios:** Todo novo repositório criado na organização deve possuir uma **descrição padronizada**, contendo obrigatoriamente os prefixos de classificação utilizados pelo Technology Hub.
+4. **Identificação Obrigatória dos Repositórios:** Todo novo repositório criado na organização deve possuir uma **descrição padronizada**, contendo obrigatoriamente os prefixos de classificação utilizados pelo Hub.
 
    Formato:
    
@@ -54,18 +54,18 @@ Nossa missão é alinhar eficiência tecnológica, segurança da informação e 
   [INTEGRATION] Integração com sistemas de comunicação com clientes.
   ```
 
-Os prefixos devem ser escritos no início da descrição, entre colchetes e separados por espaços.
+  Os prefixos devem ser escritos no início da descrição, entre colchetes e separados por espaços.
 
-O restante da descrição deve apresentar, de forma breve e objetiva, a finalidade do repositório.
+  O restante da descrição deve apresentar, de forma breve e objetiva, a finalidade do repositório.
 
-Classificação e Technology Hub: Os prefixos presentes na descrição serão utilizados automaticamente pelo Technology Hub para categorizar, organizar e disponibilizar os repositórios da organização. Não é necessário realizar um cadastro separado no Hub.
+  Classificação e Hub: Os prefixos presentes na descrição serão utilizados automaticamente pelo Hub para categorizar, organizar e disponibilizar os repositórios da organização. Não é necessário realizar um cadastro separado no Hub.
 
-Padronização de Categorias: Utilize somente categorias reconhecidas pela organização. As categorias disponíveis incluem:
+  Padronização de Categorias: Utilize somente categorias reconhecidas pela organização. As categorias disponíveis incluem:
 
-Tipos:
-[PROJECT] [AUTOMATION] [SKILL] [AGENT] [INTEGRATION] [TOOL] [LIBRARY] [TEMPLATE] [INFRASTRUCTURE] [DOCUMENTATION]
+  Tipos:
+  [PROJECT] [AUTOMATION] [SKILL] [AGENT] [INTEGRATION] [TOOL] [LIBRARY] [TEMPLATE] [INFRASTRUCTURE] [DOCUMENTATION]
 
-Novas categorias podem ser adicionadas conforme a evolução da organização e do Technology Hub.
+  Novas categorias podem ser adicionadas conforme a evolução da organização e do Hub.
 
 7.  **Repositórios sem Classificação:** Repositórios sem os prefixos obrigatórios poderão ser identificados pelo Hub como não classificados e deverão ser adequados ao padrão assim que possível.
 
