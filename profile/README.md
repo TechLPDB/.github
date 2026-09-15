@@ -62,8 +62,20 @@ Nossa missão é alinhar eficiência tecnológica, segurança da informação e 
 
   Padronização de Categorias: Utilize somente categorias reconhecidas pela organização. As categorias disponíveis incluem:
 
-  Tipos:
-  [PROJECT] [AUTOMATION] [SKILL] [AGENT] [INTEGRATION] [TOOL] [LIBRARY] [TEMPLATE] [INFRASTRUCTURE] [DOCUMENTATION]
+### 🏷️ Tipos de Repositório
+
+| Tipo | Identificação | Descrição |
+|---|---|---|
+| 🟦 Projeto | `[PROJECT]` | Solução, sistema ou produto completo |
+| 🟧 Automação | `[AUTOMATION]` | Automação de processos e fluxos |
+| 🟪 Skill | `[SKILL]` | Componente ou capacidade reutilizável |
+| 🟩 Agente | `[AGENT]` | Agente automatizado ou baseado em IA |
+| 🟨 Integração | `[INTEGRATION]` | Comunicação entre sistemas e serviços |
+| ⬜ Ferramenta | `[TOOL]` | Ferramenta interna para uma finalidade específica |
+| 🟫 Biblioteca | `[LIBRARY]` | Código reutilizável por outros projetos |
+| 🟦 Template | `[TEMPLATE]` | Estrutura base reutilizável |
+| ⬛ Infraestrutura | `[INFRASTRUCTURE]` | Configurações, servidores e infraestrutura |
+| 📄 Documentação | `[DOCUMENTATION]` | Documentação e base de conhecimento |
 
   Novas categorias podem ser adicionadas conforme a evolução da organização e do Hub.
 
